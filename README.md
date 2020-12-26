@@ -1,6 +1,6 @@
 # TO-DO LIST REACT APP 💼
 
-**A Simple To Do List App made with _** REACT JS **_ , _** MATERIAL UI **_ & _** BOOTSTRAP 4 **_**
+**A Simple To Do List App made with REACT JS ⚛️ ,MATERIAL UI & BOOTSTRAP 4**
 
 ### It provides following properties :
 
