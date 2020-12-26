@@ -2,12 +2,16 @@
 
 **A Simple To Do List App made with REACT JS ⚛️ ,MATERIAL UI & BOOTSTRAP 4**
 
-### It provides following properties :
+### It contains following properties :
 
 * Add Items     ❄️
 * Delete List   ❄️
 * Delete Items  ❄️
 * Update Items  ❄️
+
+## Final Result
+
+![alt tag](https://user-images.githubusercontent.com/64021315/103150691-38e40200-4798-11eb-94c3-aba6619ff0ed.png)
 
 ## BUILD SETUP
 
@@ -28,9 +32,6 @@ npm start
 ```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Final Result
-
 
 
 ## Available Scripts
