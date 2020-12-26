@@ -1,4 +1,31 @@
-# Getting Started with Create React App
+# TO-DO LIST REACT APP 💼
+
+** A Simple To Do List App made with _** REACT JS **_ , _** MATERIAL UI **_ & _** BOOTSTRAP 4 **_
+
+### It provides following properties :
+
+* Add Items
+* Delete List
+* Delete Items
+* Update Items
+
+## BUILD SETUP
+
+``` 
+# install dependencies
+npm install
+
+# For Bootstrap 4
+npm install react-bootstrap bootstrap
+
+# For Material UI
+ npm install @material-ui/core
+ 
+# serve at localhost:3000
+npm start
+
+
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

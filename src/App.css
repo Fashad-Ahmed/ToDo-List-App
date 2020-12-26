@@ -1,38 +1,80 @@
-.App {
+
+body
+{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  color:goldenrod;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #FC5C7D;  
+  background: -webkit-linear-gradient(to right, #6A82FB, #FC5C7D);  
+  background: linear-gradient(to right, #6A82FB, #FC5C7D); 
+  
+}
+
+.container 
+{
+  text-align: center;
+  border: 2px solid linear-gradient(to right, #6A82FB, #FC5C7D);
+  margin-top: 50px;
+  margin-bottom: 30px;
+} 
+
+input
+{
+  padding: 10px;
+  font-size: 16px;
+  width: 350px;
+}
+
+#bt
+{
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.topB
+{
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  margin-right: 0px;background: #FC466B;  
+  background-color: blanchedalmond;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+ul
+{
+  list-style-type: none;
+  font-weight: bolder;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.contq
+{
+  align-self: center;
+}
+
+.btn btn-dark ,btn btn-success , btn btn-danger
+{
+  position: absolute; 
+  right: 0;
+}
+
+.fi
+{
+  width: 50%;
+  margin-left: 80px;
+  border-color: blue;
+  border-radius: 10px;
+  border-style:ridge
+}
+
+.sci
+{
+  display: inline;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  width: 25%;
+  border-style: none;
+  background: #FC466B;  
+  background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B); 
+  background: linear-gradient(to right, #3F5EFB, #FC466B); 
+  color: aliceblue;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
