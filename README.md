@@ -1,13 +1,13 @@
 # TO-DO LIST REACT APP 💼
 
-** A Simple To Do List App made with _** REACT JS **_ , _** MATERIAL UI **_ & _** BOOTSTRAP 4 **_
+**A Simple To Do List App made with _** REACT JS **_ , _** MATERIAL UI **_ & _** BOOTSTRAP 4 **_**
 
 ### It provides following properties :
 
-* Add Items
-* Delete List
-* Delete Items
-* Update Items
+* Add Items     ❄️
+* Delete List   ❄️
+* Delete Items  ❄️
+* Update Items  ❄️
 
 ## BUILD SETUP
 
